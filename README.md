@@ -2,12 +2,12 @@
 
 #  Naive Bayes  
 
----
+
 
 ## Overview  
 This project involves creating a machine learning model using the **Naive Bayes classifier** to predict whether a person survived the Titanic disaster.  
 
----
+
 
 ## Objectives  
 1. Perform **Exploratory Data Analysis (EDA)**.  
