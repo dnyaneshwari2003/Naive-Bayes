@@ -39,12 +39,10 @@ This project involves creating a machine learning model using the **Naive Bayes 
 - Developed and evaluated a Naive Bayes model for Titanic survival prediction.  
 - Improved performance through hyperparameter tuning.  
 
----
+
 
 ## Libraries Used  
 - `numpy`  
 - `pandas`  
 - `sklearn`  
 - `matplotlib`  
-
----  
