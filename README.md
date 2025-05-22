@@ -15,7 +15,7 @@ This project involves creating a machine learning model using the **Naive Bayes 
 3. Evaluate performance using **Precision**, **Recall**, **F1 Score**, and **Accuracy**.  
 4. Implement **hyperparameter tuning** to improve model performance.  
 
----
+
 
 ## Datasets  
 - **titanic.csv**: Contains data about Titanic passengers and survival status.  
