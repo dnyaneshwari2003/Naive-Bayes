@@ -21,7 +21,7 @@ This project involves creating a machine learning model using the **Naive Bayes 
 - **titanic.csv**: Contains data about Titanic passengers and survival status.  
 - **Social_Network_Ads.csv**: Used for additional testing and validation.  
 
----
+
 
 ## Files Included  
 
@@ -31,7 +31,7 @@ This project involves creating a machine learning model using the **Naive Bayes 
 | `titanic.csv`           | Dataset for training and testing the Naive Bayes model.      |
 | `Social_Network_Ads.csv`| Dataset for additional testing of the classifier.           |
 
----
+
 
 
 
